@@ -1,2 +1,2 @@
 # myjavascript-journey
-this code include all the concepts which i learned as a beginner to the javascript
+Welcome here! this repo keeps track of my development journey as a javascript developer from the beginning to advance javascript concepts.
